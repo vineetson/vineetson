@@ -1,9 +1,9 @@
 ### Namaste / Kon'nichiwa , I am Vineet Soni 👋
 
 - 🔭 I’m currently working on Unamanned Aerial Vehicle (Communication & Authentication).
-- 🌱 I’m currently learning about BlockChain and Crypto.
+- 🌱 I’m currently learning about BlockChain and Crypto, Laxtex.
 - 👯 I’m looking to collaborate on Research Project.
-- 🤔 I’m looking for help with Latex and documentation.
+- 🤔 I’m looking for help with Stocks, Crypto & Investing.
 - 💬 Ask me about Machine Learning and other tech stuff.
 - 📫 How to reach me: here is my [LinkedIn Profile](https://www.linkedin.com/in/vineet-soni-61931714b/), [Quora Profile](https://www.quora.com/profile/Vineet-Soni-5) .
 - 😄 Pronouns: He/His
