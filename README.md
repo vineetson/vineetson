@@ -1,6 +1,6 @@
 ### Namaste / Kon'nichiwa , I am Vineet Soni 👋
 
-- 🔭 I’m currently working on Unamanned Aerial Vehicle and how to communicate via them securely.
+- 🔭 I’m currently working on Unamanned Aerial Vehicle and how to communicate via them securely, also the authentication which is a necessary part.
 - 🌱 I’m currently learning about BlockChain and Crypto.
 - 👯 I’m looking to collaborate on Research Project.
 - 🤔 I’m looking for help with Latex and documentation.
