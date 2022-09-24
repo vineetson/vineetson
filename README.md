@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Unamanned Aerial Vehicle (Communication & Authentication).
 - 🌱 I’m currently learning about BlockChain and Crypto, Laxtex.
-- 👯
-- 🤔 I’m looking for help with Stocks, Crypto & Investing.
 - 💬 Ask me about Machine Learning and other tech stuff.
 - 📫 How to reach me: here is my [LinkedIn Profile](https://www.linkedin.com/in/vineet-soni-61931714b/), [Quora Profile](https://www.quora.com/profile/Vineet-Soni-5) .
 
