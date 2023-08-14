@@ -1,7 +1,9 @@
 ### Namaste , I am Vineet Soni 👋
 
-- 🔭 I’m currently working in the area of Unamanned Aerial Vehicle (Communication & Authentication).
-- 🌱 I’m currently learning about Seccurity and Crypto, Laxtex, SPAN AVISPA Tool.
+<!-- 
+- 🔭 I’m currently working in the area of Unmanned Aerial Vehicles (Communication & Authentication).
+- 🌱 I’m currently learning about Security and Crypto, Laxtex, SPAN AVISPA Tool.
+-->
 - 💬 Ask me about Machine Learning, other tech stuff & philosophy.
 - 📫 How to reach me: here is my [LinkedIn Profile](https://www.linkedin.com/in/vineet-soni-61931714b/), [Quora Profile](https://www.quora.com/profile/Vineet-Soni-5) .
 
