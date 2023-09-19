@@ -17,9 +17,9 @@
 ### Operating Systems:
 - Windows, Linux
 ### IDEs:
-- VS Code, IntelliJ IDEA, Pycharm, Anaconda, Eclipse, CLion and many more.
-- And more tools and technologies!
-
+- VS Code, IntelliJ IDEA, Pycharm, Anaconda, Eclipse, CLion,
+- And many more tools and technologies!
+-
 - 💬 Ask me about Machine Learning, tech, and philosophy.
 Let's collaborate and create something extraordinary!
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/) or [Quora](https://www.quora.com/profile/Vineet-Soni-5).
