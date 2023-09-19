@@ -21,7 +21,7 @@
 - And many more tools and technologies!
 
 
-💬 Ask me about Coding, Problem Solving, Machine Learning, tech, and philosophy.
+💬 Ask me about Coding, Problem Solving, Machine Learning, Tech, and Philosophy.
 
 Let's collaborate and create something extraordinary!
 
