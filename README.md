@@ -6,7 +6,7 @@
 -->
 - ## 💬 Ask me about Machine Learning, other tech stuff & philosophy.
 ## My Tech Stack & Development Tools
-- ## Frontend:
+## Frontend:
 - ### HTML, CSS, JavaScript: Crafting responsive and visually appealing user interfaces.
 - ### jQuery: Enhancing interactivity and user experience with dynamic web elements.
 
