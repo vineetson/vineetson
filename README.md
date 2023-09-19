@@ -1,39 +1,28 @@
 # Namaste, I'm Vineet Soni 👋
-
-- 💬 Ask me about Machine Learning, tech, and philosophy.
-
-## Tech Stack & Tools
-
+## My Tech Stacks & Tools
 ### Frontend:
 - HTML, CSS, JavaScript, jQuery
-
 ### Backend:
 - Python, Flask, Django
 - SQL, MySQL, MongoDB
-
 ### Machine Learning & Data Science:
 - Pandas, NumPy, Matplotlib
 - Keras, PyTorch, TensorFlow
 - Various ML algorithms like LR, DT,
 - SVM, Naive Bayes, KNN, RF, and many more.
-
 ### Programming Languages:
 - Java, Python, C/C++
-
 ### Version Control:
 - Git, GitHub
-
 ### Operating Systems:
-- Windows, Ubuntu
-
+- Windows, Linux
 ### IDEs:
-- VS Code, IntelliJ IDEA
+- VS Code, IntelliJ IDEA, Pycharm, Anaconda, Eclipse, CLion and many more.
 - And more tools and technologies!
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/) or [Quora](https://www.quora.com/profile/Vineet-Soni-5).
-
+- 💬 Ask me about Machine Learning, tech, and philosophy.
 Let's collaborate and create something extraordinary!
-
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/) or [Quora](https://www.quora.com/profile/Vineet-Soni-5).
 ---
 
 
