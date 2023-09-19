@@ -21,9 +21,10 @@
 - And many more tools and technologies!
 
 
-- 💬 Ask me about Machine Learning, tech, and philosophy.
+💬 Ask me about Coding, Problem Solving, Machine Learning, tech, and philosophy.
 Let's collaborate and create something extraordinary!
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/) or [Quora](https://www.quora.com/profile/Vineet-Soni-5).
+
 ---
 
 
