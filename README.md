@@ -1,11 +1,11 @@
-### Namaste , I am Vineet Soni 👋
+# Namaste , I am Vineet Soni 👋
 
 <!-- 
-- 🔭 I’m currently working in the area of Unmanned Aerial Vehicles (Communication & Authentication).
-- 🌱 I’m currently learning about Security and Crypto, Laxtex, SPAN AVISPA Tool.
+- ## 🔭 I’m currently working in the area of Unmanned Aerial Vehicles (Communication & Authentication).
+- ##🌱 I’m currently learning about Security and Crypto, Laxtex, SPAN AVISPA Tool.
 -->
-- 💬 Ask me about Machine Learning, other tech stuff & philosophy.
-# My Tech Stack & Development Tools
+- ## 💬 Ask me about Machine Learning, other tech stuff & philosophy.
+## My Tech Stack & Development Tools
 - ## Frontend:
 - ### HTML, CSS, JavaScript: Crafting responsive and visually appealing user interfaces.
 - ### jQuery: Enhancing interactivity and user experience with dynamic web elements.
