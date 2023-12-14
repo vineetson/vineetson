@@ -1,7 +1,7 @@
 # Namaste, I'm Vineet Soni👋 [![An image of @vineetson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vineetson)](https://holopin.io/@vineetson)
 ## My Tech Stacks & Tools
 ### Frontend:
-- HTML, CSS, JavaScript, jQuery
+- HTML, CSS, JavaScript, jQuery, React, Next.js, 
 ### Backend:
 - Python, Flask, Django
 - SQL, MySQL, MongoDB
