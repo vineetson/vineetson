@@ -5,6 +5,12 @@
 ### Backend:
 - Python, Flask, Django
 - SQL, MySQL, MongoDB
+### Cloud:
+- GCP and AWS
+### DevOps:
+- Terraform (IaC)
+- Python and Shell Scripting
+- CI/CD Pipeline
 ### Machine Learning & Data Science:
 - Pandas, NumPy, Matplotlib
 - Keras, PyTorch, TensorFlow
