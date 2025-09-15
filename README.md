@@ -1,5 +1,4 @@
 # Namaste, I'm Vineet Soni👋 [![An image of @vineetson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vineetson)](https://holopin.io/@vineetson)
-# 👋 Hey there, I'm [Your Name]  
 
 🚀 Cloud Engineer | 💻 Software Developer | 📊 ML Enthusiast | 🌍 Lifelong Learner  
 
