@@ -43,7 +43,7 @@
 ✨ Ask me about **Cloud, Coding, Problem Solving, Machine Learning, Tech, or Philosophy**  
 🤝 Always open to **collaborations** — let’s build something extraordinary together!  
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/) or [Quora](https://www.quora.com/profile/Vineet-Soni-5).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vineet-soni-61931714b/).
 
 ---
 
